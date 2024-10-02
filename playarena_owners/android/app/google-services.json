@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440982205317",
+    "project_id": "playarena-50c2c",
+    "storage_bucket": "playarena-50c2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440982205317:android:77d7b420265728ad294aec",
+        "android_client_info": {
+          "package_name": "com.playarena_owners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpbpDOjJj4pPZ-EA2bfp1ff5670rIu_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

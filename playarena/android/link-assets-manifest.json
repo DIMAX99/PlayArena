@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/res/fonts/Oswald-Regular.ttf",
+      "sha1": "06aae8f5a28908ba8eca0d5bdc01cedc2a184a5f"
+    },
+    {
+      "path": "src/res/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}
