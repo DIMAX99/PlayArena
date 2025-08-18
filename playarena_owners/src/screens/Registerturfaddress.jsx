@@ -86,7 +86,7 @@ const Registerturfaddress = ({ navigation }) => {
         setselectedlocation(location);
 
         // try{  geoccoder api must be enabled and billing also
-        //     const loc=await fetch(`https://maps.googleapis.com/maps/api/geocode/json?latlng=${location.latitude},${location.longitude}&key=AIzaSyB206gxM0hrXLqZcVtIOYlUC2MEjtcYl24`);
+        //     const loc=await
         //     const data=await loc.json();
         //     console.log(data);
         // }catch(e){
